@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPI", "OpenAPI\OpenAPI.csproj", "{B38249B6-DFDC-42D8-8544-B2B4C0D9CC2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPI.Core", "OpenAPI.Core\OpenAPI.Core.csproj", "{D790C38B-4138-426F-BA9E-42B78BC34367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPI.Test", "OpenAPI.Test\OpenAPI.Test.csproj", "{6E905EA2-331A-4338-B177-F96AD59F7889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38249B6-DFDC-42D8-8544-B2B4C0D9CC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38249B6-DFDC-42D8-8544-B2B4C0D9CC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38249B6-DFDC-42D8-8544-B2B4C0D9CC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38249B6-DFDC-42D8-8544-B2B4C0D9CC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D790C38B-4138-426F-BA9E-42B78BC34367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D790C38B-4138-426F-BA9E-42B78BC34367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D790C38B-4138-426F-BA9E-42B78BC34367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D790C38B-4138-426F-BA9E-42B78BC34367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E905EA2-331A-4338-B177-F96AD59F7889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E905EA2-331A-4338-B177-F96AD59F7889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E905EA2-331A-4338-B177-F96AD59F7889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E905EA2-331A-4338-B177-F96AD59F7889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
